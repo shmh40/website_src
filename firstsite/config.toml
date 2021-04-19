@@ -1,0 +1,4 @@
+baseURL = "https://shmh40.github.io/"
+languageCode = "en-us"
+title = "SFTU"
+theme = "eureka"

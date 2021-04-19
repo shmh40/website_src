@@ -1,0 +1,7 @@
+[submodule "firstsite/themes/eureka"]
+	path = firstsite/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "firstsite/public"]
+	path = firstsite/public
+	url = https://github.com/shmh40/shmh40.github.io.git
+	branch = main

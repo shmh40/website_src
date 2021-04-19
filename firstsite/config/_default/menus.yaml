@@ -1,0 +1,13 @@
+main:
+  - name: About
+    url: '#about'
+    weight: 1
+  - name: Posts
+    url: /posts/
+    weight: 2
+  - name: Resources
+    url: /resources/
+    weight: 3
+  - name: Sui Generis
+    url: 'sui-generis'
+    weight: 4

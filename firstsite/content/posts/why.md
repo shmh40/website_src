@@ -21,4 +21,4 @@ At best, over the course of my research, I will have published work that advance
 
 Machine learning?
 
-Machine learning refers to a collection of statistical methods to extract relationships between variables in datasets, that can be automated by a computer. 
+Machine learning refers to a collection of statistical methods to extract relationships between variables in datasets, that can be automated by a computer.

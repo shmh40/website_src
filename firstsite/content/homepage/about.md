@@ -53,11 +53,6 @@ These posts will hopefully improve my writing.
 
 ***
 
-Scientific knowledge: ordinary.
-Keenness: extraordinary.
-
-***
-
 I may also keep a list of interesting content. This always makes me chuckle on other people's websites - why on earth do people want to share the things they think are interesting but unimportant?
 
 Actually that sounds fun.

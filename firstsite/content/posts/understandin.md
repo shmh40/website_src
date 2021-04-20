@@ -1,10 +1,10 @@
 ---
 title: "Understandin' (A New Refutation of Flexibility and Compute)"
-date: 2021-04-09T11:48:18+01:00
+date: 2021-04-19T20:34:19+01:00
 draft: false
 ---
 
-[Many different worlds](https://www.youtube.com/watch?v=8mR4numUavo)
+[Digable Planets](https://www.youtube.com/watch?v=8mR4numUavo)
 <!--more-->
 
 ### Prediction without understanding is, at best, unsatisfying

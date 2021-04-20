@@ -1,7 +1,7 @@
 ---
 title: Seek First To Understand
 draft: false
-role: Writer
+role: Author
 avatar: images/IMG_3268.JPG
 bio: Machine learning, climate models, causal inference.
 organization:

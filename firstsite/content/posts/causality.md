@@ -13,9 +13,8 @@ I shall do my best to explain causal inference. We are not going to try to unpic
 
 Now we need to answer why we are interested in causality.
 
-The key thing to think about is that many current machine learning processes work brilliantly without a second thought regarding causality. During training, they look at inputs (e.g. number of bedrooms, size of the garden, distance to London), find a way to map them to known outputs (e.g. house price), and then use the model to make predictions when we don't know what the output (answer) should be, but we do have the inputs. ML algorithms are incredibly good at this, and they are pervasive in day-to-day life. 
+The key thing to think about is that many current machine learning processes work brilliantly without a second thought regarding causality. During training, they look at inputs (e.g. number of bedrooms, size of the garden, distance to London), find a way to map them to known outputs (e.g. house price), and then use the model to make predictions when we don't know what the output (answer) should be, but we do have the inputs. ML algorithms are incredibly good at this, and they are pervasive in day-to-day life.
 
 But in many cases we can't understand what the machine learning algorithms are doing to the inputs to predict the output. In these cases, we only learn a very limited amount about the mapping between the inputs and outputs. By that, I mean that we do not understand what is **causing** the algorithm to predict what it does. And hence we do not glean anything about the mechanisms that drive the relationships between inputs and outputs.
 
 So how do we get to this?
-

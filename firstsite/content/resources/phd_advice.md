@@ -15,19 +15,6 @@ This is simply advice that I have found useful, or advice that I think would be 
 
 Many of **Matt Might**'s [blogs](http://matt.might.net/articles/)
 
-Shamefully, I am still enthralled by the [blogs](https://dominiccummings.com/about/) of **Dominic Cummings**, despite everything
-
 How to write (give) a great research [paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/) ([talk](https://www.microsoft.com/en-us/research/academic-program/give-great-research-talk/)) - **Simon Peyton-Jones**
 
-Some of **Neel Nanda**'s [blogs](https://www.neelnanda.io/) are entertaining (I am quite taken by his [*inner simulators*](https://www.neelnanda.io/blog/42-inner-sim))
-
-
-
-
-
-
-
-
-
-
-
+[How to do research at the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)

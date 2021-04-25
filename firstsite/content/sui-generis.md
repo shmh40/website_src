@@ -9,6 +9,6 @@ draft: false
 
 [Information Theory, Inference and Learning Algorithms](http://www.inference.org.uk/itprnn/book.pdf) - *David J.C. MacKay*
 
-The Royal Society's [motto](https://en.wikipedia.org/wiki/Nullius_in_verba).
+[John Evelyn](https://en.wikipedia.org/wiki/John_Evelyn), who came up with a good motto, amongst other things
 
 [V&A CC](http://vacricket.com/)

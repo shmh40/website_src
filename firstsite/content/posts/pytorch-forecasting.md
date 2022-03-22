@@ -1,6 +1,6 @@
 ---
 title: "PyTorch Forecasting"
-date: 2021-04-19T20:34:19+01:00
+date: 2022-03-22T13:34:19+01:00
 draft: false
 ---
 

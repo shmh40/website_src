@@ -6,17 +6,17 @@ avatar: images/IMG_3268.JPG
 bio: Machine learning, air pollution, causal inference.
 organization:
   name: University
-  url: https://example.com/
+  url: https://ai4er-cdt.esc.cam.ac.uk/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:fake@fake.com
+    url: mailto:shmh4@cam.ac.uk
   - icon: twitter
     iconPack: fab
-    url: https://twitter.com/
+    url: https://twitter.com/shmh40
   - icon: github
     iconPack: fab
-    url: https://github.com/
+    url: https://github.com/shmh40
 
 weight: 1
 widget:
@@ -47,13 +47,13 @@ widget:
 
 This is my site - for writing, reference and reading.
 
-Posts will likely be about machine learning, causality, and their applications to environmental research. Areas of environmental research of particular interest include flooding, (de)forestation and examining climate models.
+Posts will likely be about machine learning, causal inference (and maybe discovery...eek!), and their applications to environmental research, particularly understanding air pollution. Other areas of environmental research of particular interest include atmospheric science more widely, (de)forestation and examining climate models.
 
-These posts will hopefully improve my writing.
+Posts will hopefully (!) improve over time.
 
 ***
 
-I may also keep a list of interesting content. This always makes me chuckle on other people's websites - why on earth do people want to share the things they think are interesting but unimportant?
+I may also keep a list of interesting content. This always makes me chuckle on other people's websites - why on earth do people want to share the things *they* think are interesting?
 
 Actually that sounds fun.
 
@@ -61,11 +61,11 @@ Actually that sounds fun.
 
 Posting on:
 
+- Spatio-temporal machine learning, with traditional and graphical methods.
 - Causal inference and discovery in high dimensional systems.
-- Machine learning, with an eye on uncertainty.
 
 Wary of:
 
-- Being verbose.
-- Asserting strong opinions.
-- Out of sample performance.
+- Using too many words...
+- Uncertainty
+- OOD

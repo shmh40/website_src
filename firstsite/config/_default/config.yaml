@@ -9,7 +9,7 @@ theme: eureka
 
 paginate: 3
 copyright: >
-  &copy; 2021, The Writers
+  &copy; 2022, Sebastian Hickman
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75

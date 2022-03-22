@@ -3,7 +3,7 @@ title: Seek First To Understand
 draft: false
 role: Author
 avatar: images/IMG_3268.JPG
-bio: Machine learning, climate models, causal inference.
+bio: Machine learning, air pollution, causal inference.
 organization:
   name: University
   url: https://example.com/
@@ -45,7 +45,7 @@ widget:
 
 ## Introduction
 
-Yet another blog.
+This is my site - for writing, reference and reading.
 
 Posts will likely be about machine learning, causality, and their applications to environmental research. Areas of environmental research of particular interest include flooding, (de)forestation and examining climate models.
 

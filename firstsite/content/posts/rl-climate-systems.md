@@ -17,6 +17,6 @@ We can build a model of air quality, particularly ozone and particulate matter (
 
 This would involve weighing up the benefits to quality of life from reducing air pollution against the possible costs of economic damage caused by reducing emissions, and the effect of that on quality of life. They are both tricky to model.
 
-But an RL agent may be able to determine an optimal policy based on the information of the model. I think this could be a fascinating approach.
+But an RL agent may be able to determine an optimal policy based on the information of the model. I think this could be a nice approach.
 
 The performance of the RL agent, if put into production, would depend a great deal on the accuracy of the model in representing the world.

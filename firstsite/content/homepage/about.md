@@ -1,11 +1,11 @@
 ---
 title: Seek First To Understand
 draft: false
-role: Author
+role: Sebastian Hickman
 avatar: images/IMG_3268.JPG
 bio: Machine learning, air pollution, causal inference.
 organization:
-  name: University
+  name: University of Cambridge
   url: https://ai4er-cdt.esc.cam.ac.uk/
 social:
   - icon: envelope
@@ -47,7 +47,7 @@ widget:
 
 This is my site - for writing, reference and reading.
 
-Posts will likely be about machine learning, causal inference (and maybe discovery...eek!), and their applications to environmental research, particularly understanding air pollution. Other areas of environmental research of particular interest include atmospheric science more widely, (de)forestation and examining climate models.
+Posts will likely be about machine learning, causal inference (and maybe discovery...*eek*), and their applications to environmental research, particularly understanding air pollution. Other areas of environmental research of particular interest include atmospheric science more widely, (de)forestation and examining climate models.
 
 Posts will hopefully (!) improve over time.
 

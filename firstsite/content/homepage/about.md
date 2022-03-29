@@ -1,11 +1,11 @@
 ---
-title: Seek First To Understand
+title: Seek First To Understand...
 draft: false
 role: Sebastian Hickman
-avatar: images/IMG_3268.JPG
-bio: Machine learning, air pollution, causal inference.
+avatar: images/hickman_photo_bw.jpg
+bio: Air pollution, machine learning, causal inference.
 organization:
-  name: University of Cambridge
+  name: @ University of Cambridge
   url: https://ai4er-cdt.esc.cam.ac.uk/
 social:
   - icon: envelope
@@ -45,11 +45,17 @@ widget:
 
 ## Introduction
 
-This is my site - for writing, reference and reading.
+I am Sebastian Hickman, a PhD student at the University of Cambridge, supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack).
 
-Posts will likely be about machine learning, causal inference (and maybe discovery...*eek*), and their applications to environmental research, particularly understanding air pollution. Other areas of environmental research of particular interest include atmospheric science more widely, (de)forestation and examining climate models.
+I work on modelling observed air pollution with machine learning and causal models.
 
-Posts will hopefully (!) improve over time.
+***
+
+This site is for writing, reference and reading.
+
+Posts will are loosely about machine learning, causal inference (and maybe discovery...*eek*), and their applications to environmental research, particularly understanding air pollution. Other areas of environmental science of particular interest include atmospheric science more widely, (de)forestation and examining climate models.
+
+The writing will hopefully (!) improve over time.
 
 ***
 
@@ -61,11 +67,11 @@ Actually that sounds fun.
 
 Posting on:
 
-- Spatio-temporal machine learning, with traditional and graphical methods.
-- Causal inference and discovery in high dimensional systems.
+- Spatiotemporal machine learning, with traditional and graphical methods.
+- Causal inference and discovery in high dimensional systems...and with cycles...
 
 Wary of:
 
 - Using too many words...
 - Uncertainty
-- OOD
+- OOD behaviour!

@@ -5,7 +5,7 @@ role: Sebastian Hickman
 avatar: images/hickman_photo_bw.jpg
 bio: Air pollution, machine learning, causal inference.
 organization:
-  name: @ University of Cambridge
+  name: University of Cambridge
   url: https://ai4er-cdt.esc.cam.ac.uk/
 social:
   - icon: envelope

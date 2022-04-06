@@ -70,8 +70,8 @@ Posting on:
 - Spatiotemporal machine learning, with traditional and graphical methods.
 - Causal inference and discovery in high dimensional systems...and with cycles...
 
-Wary of:
+Thinking about:
 
+- '*There are no predictions without assumptions, no generalisation without inductive bias.*' - Max Welling
 - Using too many words...
 - Uncertainty
-- OOD behaviour!

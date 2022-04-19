@@ -53,7 +53,7 @@ I work on modelling observed air pollution with machine learning and causal mode
 
 This site is for writing, reference and reading.
 
-Posts will are loosely about machine learning, causal inference (and maybe discovery...*eek*), and their applications to environmental research, particularly understanding air pollution. Other areas of environmental science of particular interest include atmospheric science more widely, (de)forestation and examining climate models.
+Posts will are loosely about machine learning, causal inference (and maybe discovery...), and their applications to environmental research, particularly understanding air pollution. Other areas of environmental science of particular interest include atmospheric science more widely, (de)forestation and examining climate models.
 
 The writing will hopefully (!) improve over time.
 

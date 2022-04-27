@@ -45,7 +45,7 @@ widget:
 
 ## Introduction
 
-I am Sebastian Hickman, a PhD student at the University of Cambridge, supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack).
+I am Sebastian Hickman, a first year PhD student at the University of Cambridge, supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/).
 
 I work on modelling observed air pollution with machine learning and causal models.
 
@@ -59,9 +59,9 @@ The writing will hopefully (!) improve over time.
 
 ***
 
-I may also keep a list of interesting content. This always makes me chuckle on other people's websites - why on earth do people want to share the things *they* think are interesting?
+I may also keep a list of interesting content. This always makes me chuckle on other people's websites - why do people want to share the random things *they* think are interesting?
 
-Actually that sounds fun.
+Actually that sounds [fun](https://shmh40.github.io/sui-generis/).
 
 ## More
 

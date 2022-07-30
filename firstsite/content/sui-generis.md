@@ -19,7 +19,7 @@ draft: false
 
 [How we could present information and assumptions](http://worrydream.com/ClimateChange/#media-debate)
 
-[Exam](https://www.poetryfoundation.org/poems/53744/adlestrop)
+[School exam](https://www.poetryfoundation.org/poems/53744/adlestrop)
 
 [V&A CC](http://vacricket.com/)
 

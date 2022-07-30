@@ -13,7 +13,7 @@ draft: false
 
 [Perhaps this is how it goes?](https://www.multivax.com/last_question.html)
 
-[Delivering a twist](https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message)
+[Fun twist!](https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message)
 
 [Evolution of solar PV module prices](https://ourworldindata.org/grapher/solar-pv-prices?yScale=log)
 

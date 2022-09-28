@@ -11,3 +11,6 @@ main:
   - name: Sui Generis
     url: 'sui-generis'
     weight: 4
+  - name: Publications
+    url: /publications/
+    weight: 5

@@ -9,6 +9,6 @@ draft: false
 
 The [blog](https://thinkingcomplete.blogspot.com/) of **Richard Ngo**. Lovely to read about someone's answers to All Souls.
 
-Shamefully, I am still enthralled by the [blogs](https://dominiccummings.com/about/) of **Dominic Cummings**, despite everything
+The [blogs](https://dominiccummings.com/about/) of **Dominic Cummings** are an *interesting* thing to read.
 
 Some of **Neel Nanda**'s [blogs](https://www.neelnanda.io/) are entertaining (I am quite taken by his [*inner simulators*](https://www.neelnanda.io/blog/42-inner-sim))

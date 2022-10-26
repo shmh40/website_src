@@ -17,10 +17,12 @@ draft: false
 
 [Evolution of solar PV module prices](https://ourworldindata.org/grapher/solar-pv-prices?yScale=log)
 
-[How we could present information and assumptions](http://worrydream.com/ClimateChange/#media-debate)
+[How we could (should?) present information and assumptions](http://worrydream.com/ClimateChange/#media-debate)
 
 [School exam](https://www.poetryfoundation.org/poems/53744/adlestrop)
 
 [V&A CC](http://vacricket.com/)
 
 [Music, week in, week out](https://www.bbc.co.uk/programmes/b01fm4ss)
+
+[A Vision of Metascience...](https://scienceplusplus.org/metascience/index.html)

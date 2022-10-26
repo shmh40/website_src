@@ -45,13 +45,13 @@ widget:
 
 ## Introduction
 
-I'm Sebastian Hickman, a first year PhD student at the University of Cambridge, supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/).
+I'm Sebastian Hickman, a PhD student at the University of Cambridge (currently based at the [Alan Turing Institute](https://www.turing.ac.uk/) in KX), supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/).
 
 I work on modelling observed air pollution with machine learning and causal models.
 
 Previously, I read Natural Sciences at Cambridge, graduating in 2020.
 
-Please do contact [me](mailto:shmh4@cam.ac.uk) if you would like to chat!
+Please do contact [me](mailto:shmh4@cam.ac.uk) if you would like to talk.
 
 ***
 
@@ -67,7 +67,7 @@ I may also keep a list of interesting content. This always makes me chuckle on o
 
 Actually that sounds [fun](https://shmh40.github.io/sui-generis/).
 
-## Thinking about...
+## Thinking about and working on...
 
 - '*There are no predictions without assumptions, no generalisation without inductive bias.*' - Max Welling
 - Using too many words...

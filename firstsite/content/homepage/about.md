@@ -69,7 +69,7 @@ Actually that sounds [fun](https://shmh40.github.io/sui-generis/).
 
 ## PhD Diaries
 
-I have recently been reading Alanbrooke's War Diaries. While enjoying them, the surprising expressiveness and beauty of the format struck me. While happily my circumstances are far less engaging than his, I nevertheless think that writing in this form might be useful one day. And so!
+I have recently been reading Alanbrooke's War Diaries. While enjoying them, the surprising expressiveness and beauty of the format struck me. While happily my circumstances are far less engaging than his, I nevertheless think that writing in this form might be useful one day. [And so!](https://shmh40.github.io/phd-diaries/)
 
 ## Thinking about and working on...
 

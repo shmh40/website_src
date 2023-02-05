@@ -45,7 +45,7 @@ widget:
 
 ## Introduction
 
-I'm Sebastian (Seb) Hickman, a PhD student at the University of Cambridge (currently based at the [Alan Turing Institute](https://www.turing.ac.uk/) in KX), supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/).
+I'm Sebastian (Seb) Hickman, a PhD student at the University of Cambridge (currently based at the [Alan Turing Institute](https://www.turing.ac.uk/) in King's Cross), supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/).
 
 I work on modelling observed air pollution with machine learning and causal models.
 
@@ -66,6 +66,10 @@ The writing will hopefully (!) improve over time.
 I may also keep a list of interesting content. This always makes me chuckle on other people's websites - why do people want to share the random things *they* think are interesting?
 
 Actually that sounds [fun](https://shmh40.github.io/sui-generis/).
+
+## PhD Diaries
+
+I have recently been reading Alanbrooke's War Diaries. While enjoying them, the surprising expressiveness and beauty of the format struck me. While happily my circumstances are far less engaging than his, I nevertheless think that writing in this form might be useful one day. And so!
 
 ## Thinking about and working on...
 

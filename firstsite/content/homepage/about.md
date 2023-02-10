@@ -53,16 +53,10 @@ Please do contact [me](mailto:shmh4@cam.ac.uk) if you would like to talk.
 
 ***
 
-This site is for writing, reference and reading.
-
-Posts are loosely about machine learning, causal inference (and maybe discovery...), and their applications to environmental research, particularly understanding air pollution. Other areas of environmental research of particular interest include atmospheric science more widely, (de)forestation and examining climate models. The writing will hopefully (!) improve over time.
-
-***
-
-I may also keep a list of interesting content. This always makes me chuckle on other people's websites - why do people want to share the random things *they* think are interesting?
+I may keep a list of interesting content. This always makes me chuckle on other people's websites - why do people want to share the random things *they* think are interesting?
 
 Actually that sounds [fun](https://shmh40.github.io/sui-generis/).
 
 ## PhD Diaries
 
-I have recently been reading Alanbrooke's War Diaries. While enjoying them, the surprising expressiveness and beauty of the format struck me. While happily my circumstances are far less engaging than his, I nevertheless think that writing in this form might be useful one day. [And so!](https://shmh40.github.io/phd-diaries/)
+I have recently been reading Alanbrooke's diaries. I have been quite taken by the surprising expressiveness of the format! While happily my circumstances are far less engaging than his, I nevertheless think that writing in this form might be useful. [And so!](https://shmh40.github.io/phd-diaries/)

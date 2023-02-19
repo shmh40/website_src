@@ -57,6 +57,3 @@ I may keep a list of interesting content. This always makes me chuckle on other 
 
 Actually that sounds [fun](https://shmh40.github.io/sui-generis/).
 
-## PhD Diaries
-
-I have recently been reading Alanbrooke's diaries. I have been quite taken by the surprising expressiveness of the format! While happily my circumstances are far less engaging than his, I nevertheless think that writing in this form might be useful. [And so!](https://shmh40.github.io/phd-diaries/)

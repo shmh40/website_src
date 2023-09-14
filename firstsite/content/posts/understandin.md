@@ -1,7 +1,7 @@
 ---
 title: "Understandin' (A New Refutation of Flexibility and Compute)"
 date: 2021-04-19T20:34:19+01:00
-draft: false
+draft: true
 ---
 
 [Digable Planets](https://www.youtube.com/watch?v=8mR4numUavo)

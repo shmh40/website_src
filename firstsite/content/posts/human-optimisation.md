@@ -1,7 +1,7 @@
 ---
 title: "What does human cognition over-optimise for?"
 date: 2021-04-20T11:48:18+01:00
-draft: false
+draft: true
 ---
 
 What processes do humans over-optimise for? Does this provide insights for what is required to be an effective agent in new environments?

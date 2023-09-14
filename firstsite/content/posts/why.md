@@ -1,7 +1,7 @@
 ---
 title: "Why?"
 date: 2021-04-08T23:16:59+01:00
-draft: false
+draft: true
 ---
 
 Why work in environmental science? And why use machine learning?

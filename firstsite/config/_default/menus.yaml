@@ -14,6 +14,9 @@ main:
   - name: Publications
     url: /publications/
     weight: 2
+  - name: Shed Door Open
+    url: /shed-door-open/
+    weight: 6
 #  - name: PhD Diaries
 #    url: /phd-diaries/
 #    weight: 6

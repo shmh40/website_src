@@ -45,7 +45,7 @@ widget:
 
 ## Introduction
 
-I'm Sebastian (Seb) Hickman, a PhD student at the University of Cambridge (currently based at the [Alan Turing Institute](https://www.turing.ac.uk/) in King's Cross), supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/).
+I'm Sebastian (Seb) Hickman, a PhD student at the University of Cambridge (currently based at [Mila](https://mila.quebec/en/) in Montreal), supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/).
 
 I work on modelling observed air pollution with machine learning and causal models. Previously, I read Natural Sciences at Cambridge, graduating in 2020.
 

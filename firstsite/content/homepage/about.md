@@ -47,7 +47,7 @@ widget:
 
 I'm Sebastian (Seb) Hickman, a PhD student at the University of Cambridge, supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/). 
 
-This summer I was an intern at [David Rolnick's](https://mila.quebec/en/directory/david-rolnick) lab at Mila, where I worked on learning causal representations of climate model data with deep probabilistic models. Last summer I worked with [Martin Schultz](https://www.fz-juelich.de/profile/schultz_m) on MLAir and AtmoRep.
+This summer I was an intern with [David Rolnick](https://mila.quebec/en/directory/david-rolnick) at Mila, where I worked on learning causal representations of climate model data with deep probabilistic models. Last summer I worked with [Martin Schultz](https://www.fz-juelich.de/profile/schultz_m) on MLAir and AtmoRep.
 
 My PhD looks at modelling ozone and climate with machine learning and causal models. Previously, I read Natural Sciences at Cambridge, graduating in 2020.
 

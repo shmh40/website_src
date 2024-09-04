@@ -1,5 +1,5 @@
 ---
-title: Seek First To Understand...
+title: Seek First To Understand
 draft: false
 role: Sebastian Hickman
 avatar: images/hickman_photo_bw.jpg
@@ -45,9 +45,11 @@ widget:
 
 ## Introduction
 
-I'm Sebastian (Seb) Hickman, a PhD student at the University of Cambridge (currently based at [Mila](https://mila.quebec/en/) in Montreal), supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/).
+I'm Sebastian (Seb) Hickman, a PhD student at the University of Cambridge, supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/). 
 
-I work on modelling observed air pollution with machine learning and causal models. Previously, I read Natural Sciences at Cambridge, graduating in 2020.
+This summer I was an intern at [David Rolnick's](https://mila.quebec/en/directory/david-rolnick) lab at Mila, where I worked on learning causal representations of climate model data with deep probabilistic models. 
+
+My PhD work looks at modelling ozone and climate with machine learning and causal models. Previously, I read Natural Sciences at Cambridge, graduating in 2020.
 
 Please do contact [me](mailto:shmh4@cam.ac.uk) if you would like to talk.
 

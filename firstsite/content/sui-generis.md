@@ -11,9 +11,7 @@ draft: false
 
 [John Evelyn](https://en.wikipedia.org/wiki/John_Evelyn), who came up with a good motto, amongst other things
 
-[Perhaps this is how it goes?](https://www.multivax.com/last_question.html)
-
-[Fun twist!](https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message)
+[Perhaps this is how it goes?](http://www.thelastquestion.net/)
 
 [Evolution of solar PV module prices](https://ourworldindata.org/grapher/solar-pv-prices?yScale=log)
 

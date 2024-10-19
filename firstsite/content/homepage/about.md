@@ -51,7 +51,7 @@ This summer I was an intern with [David Rolnick](https://mila.quebec/en/director
 
 My PhD looks at modelling ozone and climate with machine learning and causal models. Previously, I read Natural Sciences at Cambridge, graduating in 2020.
 
-Please do contact [me](mailto:shmh4@cam.ac.uk) if you would like to talk.
+Please do contact [me](mailto:shmh4@cam.ac.uk) if you would like to talk. You can find my CV [here](https://shmh40.github.io/shickman_cv.pdf).
 
 ***
 

@@ -17,6 +17,9 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/shmh40
+  - icon: cv
+    iconpack: fab
+    url: https://shmh40.github.io/shickman_cv.pdf
 
 weight: 1
 widget:

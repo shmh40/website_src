@@ -1,16 +1,16 @@
 ---
-title: Seek First To Understand
+title: Sebastian Hickman
 draft: false
-role: Sebastian Hickman
+role: 
 avatar: images/hickman_photo_bw.jpg
-bio: ML, weather and climate.
+bio: ML research, weather and climate.
 organization:
-  name: University of Cambridge
-  url: https://ai4er-cdt.esc.cam.ac.uk/
+  name: ECMWF
+  url: https://www.ecmwf.int/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:shmh4@cam.ac.uk
+    url: mailto:seb.hickman@gmail.com
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/shmh40
@@ -48,11 +48,11 @@ widget:
 
 ## Introduction
 
-I'm Sebastian (Seb) Hickman, a PhD student at the University of Cambridge, supervised by [Alex Archibald](https://www.ch.cam.ac.uk/person/ata27), [Paul Griffiths](https://www.ch.cam.ac.uk/person/ptg21) and [Peer Nowack](https://research-portal.uea.ac.uk/en/persons/peer-nowack). I am funded by the [AI4ER CDT](https://ai4er-cdt.esc.cam.ac.uk/). My PhD looks at modelling ozone and climate with machine learning and causal models. Previously, I read Natural Sciences at Cambridge, graduating in 2020. 
+I'm Sebastian (Seb) Hickman, an ML scientist at ECMWF. I work on the [WeatherGenerator](https://weathergenerator.eu/) project, building a large-scale model for the Earth system, trained on terabytes of observations and reanalysis. Before starting at ECMWF, I did a PhD at Cambridge, supervised by [Alex Archibald](https://atm.group.ch.cam.ac.uk/), [Paul Griffiths](https://www.bristol.ac.uk/people/person/Paul-Griffiths-d5ff46fa-8a86-44ab-bb23-b07f33aab746/) and [Peer Nowack](https://ki-klima.iti.kit.edu/). My PhD looked at modelling ozone and climate with causal ML. Previously, I read Natural Sciences, graduating in 2020. 
 
-This summer I was an intern with [David Rolnick](https://mila.quebec/en/directory/david-rolnick) at Mila, where I worked on learning causal representations of climate model data with deep probabilistic models. Last summer I worked with [Martin Schultz](https://www.fz-juelich.de/profile/schultz_m) on MLAir and AtmoRep.
+In the summer of 2024 I was an intern with [David Rolnick](https://mila.quebec/en/directory/david-rolnick) at Mila, where I worked on learning causal representations of climate model data with deep probabilistic models. During my PhD I also visited [Martin Schultz](https://www.fz-juelich.de/profile/schultz_m) at FZJ.
 
-Please do contact [me](mailto:shmh4@cam.ac.uk) if you would like to talk. You can find my CV [here](https://shmh40.github.io/shickman_cv.pdf).
+Please do contact [me](mailto:seb.hickman@gmail.com) if you would like to talk. You can find my CV [here](https://shmh40.github.io/shickman_cv.pdf).
 
 ***
 

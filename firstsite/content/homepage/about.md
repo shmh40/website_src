@@ -3,7 +3,7 @@ title: Seek First To Understand
 draft: false
 role: Sebastian Hickman
 avatar: images/hickman_photo_bw.jpg
-bio: Climate, air pollution, machine learning, causal inference.
+bio: ML, weather and climate.
 organization:
   name: University of Cambridge
   url: https://ai4er-cdt.esc.cam.ac.uk/

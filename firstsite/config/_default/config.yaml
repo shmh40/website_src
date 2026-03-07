@@ -7,9 +7,9 @@ theme: eureka
 # Uncomment when installing using Hugo Modules
 # theme: github.com/wangchucheng/hugo-eureka
 
-paginate: 3
+pagination.pagerSize: 3
 copyright: >
-  &copy; 2024, Sebastian Hickman
+  &copy; 2026, Sebastian Hickman
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
@@ -20,6 +20,10 @@ defaultContentLanguageInSubdir: false
 
 # Uncomment for google analytics
 # googleAnalytics: UA-123-45
+
+services:
+  googleAnalytics:
+    ID: ""
 
 markup:
   # Do not modify markup.highlight

@@ -2,6 +2,9 @@ main:
   - name: About
     url: '#about'
     weight: 1
+  - name: Publications
+    url: /publications/
+    weight: 2
   - name: Posts
     url: /posts/
     weight: 3
@@ -11,9 +14,12 @@ main:
   - name: Sui Generis
     url: 'sui-generis'
     weight: 5
-  - name: Publications
-    url: /publications/
-    weight: 2
+  - name: Places
+    url: /mythical-places/
+    weight: 6
+  - name: Pictures
+    url: /pictures/
+    weight: 7
 #  - name: Shed Door Open
 #    url: /shed-door-open/
 #    weight: 6

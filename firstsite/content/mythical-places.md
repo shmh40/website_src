@@ -1,10 +1,11 @@
 ---
 title: "Mythical Places"
 date: 2026-03-06T22:50:25+01:00
+weight: 6
 draft: false
 ---
 
-Inspired by Michael Nielsen's [places](https://michaelnotebook.com/ongoing/places.html), and his description of the Imperial Palace Gardens.
+Inspired by Michael Nielsen's [places](https://michaelnotebook.com/ongoing/places.html), and his description of the Imperial Palace Gardens. 
 
 ### 
 <!--more-->

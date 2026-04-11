@@ -2,7 +2,7 @@
 title: Sebastian Hickman
 draft: false
 role: 
-avatar: images/hickman_photo_bw.jpg
+avatar: images/IMG_2210_headshot.jpeg
 bio: ML research, weather and climate.
 organization:
   name: ECMWF

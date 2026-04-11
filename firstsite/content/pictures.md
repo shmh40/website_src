@@ -1,6 +1,7 @@
 ---
 title: "Pictures"
 date: 2026-03-06T22:50:25+01:00
+weight: 7
 draft: false
 ---
 
@@ -42,12 +43,15 @@ draft: false
 .gallery .info {
   padding: 0.9rem 1rem 1rem;
   font-size: 0.95rem;
-  color: rgba(255, 255, 255, 0.7);
+  color: inherit;
 }
 .gallery .title {
   font-weight: 600;
   margin-bottom: 0.3rem;
-  color: rgba(255, 255, 255, 0.85);
+  color: inherit;
+}
+.gallery .caption {
+  opacity: 0.72;
 }
 </style>
 
@@ -58,7 +62,7 @@ draft: false
     </summary>
     <div class="info">
       <div class="title">Fen Ditton</div>
-      Fen Ditton on a cold morning, near dawn. The church!
+      <div class="caption">Fen Ditton on a cold morning, near dawn.</div>
     </div>
   </details>
 
@@ -68,7 +72,7 @@ draft: false
     </summary>
     <div class="info">
       <div class="title">Imperial Palace Gardens</div>
-      Lucky to have an evening like this. Trees, rigidly straight buildings and huge planes.
+      <div class="caption">Lucky to have an evening like this. Trees, rigidly straight buildings and huge planes.</div>
     </div>
   </details>
 
@@ -78,7 +82,7 @@ draft: false
     </summary>
     <div class="info">
       <div class="title">Light frost.</div>
-      Mystical morning. Sunrise was otherworldly.
+      <div class="caption">Sunrise.</div>
     </div>
   </details>
 
@@ -88,7 +92,7 @@ draft: false
     </summary>
     <div class="info">
       <div class="title">Fishing.</div>
-      Picture of a man fishing. Very quiet corner of the world.
+      <div class="caption">Picture of a man fishing. Very quiet corner of the world.</div>
     </div>
   </details>
 
@@ -98,7 +102,7 @@ draft: false
     </summary>
     <div class="info">
       <div class="title">Tanner</div>
-      Perfect rooms. E?
+      <div class="caption">Perfect rooms. E?</div>
     </div>
   </details>
 
@@ -108,7 +112,7 @@ draft: false
     </summary>
     <div class="info">
       <div class="title">When god came to Cambridge.</div>
-      Taken by M.A.P. Wood.
+      <div class="caption">Taken by M.A.P. Wood.</div>
     </div>
   </details>
 </div>
